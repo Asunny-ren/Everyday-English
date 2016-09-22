@@ -1,6 +1,6 @@
 # 每日一句
 
-## Failure is the path of least pesistence.
+## Failure is the path of least persistence.
 
 ### 2016/9/22
 1. Things won are done;joy's soul lies in the doing.
@@ -10,5 +10,5 @@
    words:
 
    quote 引用
-    
+
 ### 2016/9/23
