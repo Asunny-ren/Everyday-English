@@ -12,3 +12,12 @@
    quote 引用
 
 ### 2016/9/23
+
+1. Even a small star shines in the darkness.
+
+   星星再小也会发光。
+
+   words:
+
+   configuration 配置，结构，外形
+   
