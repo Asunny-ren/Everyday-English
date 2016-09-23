@@ -20,4 +20,4 @@
    words:
 
    configuration 配置，结构，外形
-   
+
