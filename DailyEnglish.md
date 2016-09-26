@@ -21,3 +21,7 @@
 
    configuration 配置，结构，外形
 
+### 2016/9/26
+
+1. The land did not move,but moved.The sea was not still ,yet was still.
+   大地止而亦行，大海动而亦静。
