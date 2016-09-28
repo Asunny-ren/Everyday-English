@@ -26,3 +26,11 @@
 1. The land did not move,but moved.The sea was not still ,yet was still.
 
    大地止而亦行，大海动而亦静。
+
+### 2016/9/28
+
+1. Love all,trust a few,do wrong to none.
+
+   爱所有人，信任一些人，不伤害任何人。
+
+
