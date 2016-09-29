@@ -33,4 +33,35 @@
 
    爱所有人，信任一些人，不伤害任何人。
 
+### 2016/9/29
+
+1. Prosperity discovers vice,adversity virtue.
+
+   得意时露瑕疵，逆境中见品质。
+
+ word:
+
+ prosperity:繁荣，成功
+
+ adversity: 逆境，不幸，灾难，灾祸
+
+ virtue:美德，优点，贞操，功效
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
