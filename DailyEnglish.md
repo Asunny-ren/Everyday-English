@@ -49,7 +49,17 @@
 
  repository:贮藏室，知识库，智囊团
 
+### 2016/9/30
 
+1.Elegance is the only beauty that never fades.
+
+  优雅是唯一不会褪色的美。
+
+  word：
+
+  elegance: 典雅，优雅
+
+  fade: 褪色，逐渐消失
 
 
 
