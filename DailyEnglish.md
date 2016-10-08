@@ -71,6 +71,9 @@
 
   ambition：野心，雄心，抱负，志向
 
+  navigator: 航海家，领航员
+  
+
 
 
 
