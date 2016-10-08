@@ -51,7 +51,7 @@
 
 ### 2016/9/30
 
-1.Elegance is the only beauty that never fades.
+1. Elegance is the only beauty that never fades.
 
   优雅是唯一不会褪色的美。
 
@@ -61,7 +61,15 @@
 
   fade: 褪色，逐渐消失
 
+### 2016/10/8
 
+1. When ambition ends,happiness begins.
+
+  野心消亡之日，正是快乐破茧之时。
+
+  word：
+
+  ambition：野心，雄心，抱负，志向
 
 
 
