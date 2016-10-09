@@ -72,8 +72,16 @@
   ambition：野心，雄心，抱负，志向
 
   navigator: 航海家，领航员
-  
 
+### 2016/10/9
+
+1. No matter how resourceful you are,you can't fight fate.
+
+  人纵有万般能耐，终也敌不过天命。
+
+  word：
+
+  fate:命运，注定
 
 
 
