@@ -83,6 +83,14 @@
 
   fate:命运，注定
 
+### 2016/10/11
+
+1. A friend is one who knows you and loves you just the same.
+
+朋友是懂你并爱你的人。
+
+word：
+
 
 
 
