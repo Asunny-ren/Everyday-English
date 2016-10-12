@@ -91,7 +91,21 @@
 
   word：
 
+### 2016/10/12
 
+1. Passion is momentary,love is enduring.
+
+  激情短暂，真爱长久。
+
+  word：
+
+  iterator:迭代器，迭代程序
+
+  passion:激情，热情，酷爱
+
+  momentary:瞬间的，短暂的，随时会发生的
+
+  enduring:持久的，能忍受的；忍耐
 
 
 
