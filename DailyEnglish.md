@@ -107,9 +107,15 @@
 
   enduring:持久的，能忍受的；忍耐
 
+### 2016/10/13
 
+1. If the world seems cold to you, kindle fires to warm it.
 
+  世界以寒相待，请以温暖相报。
 
+  word：
+
+  kindle:点燃，激起，照亮
 
 
 
