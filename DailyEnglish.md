@@ -117,7 +117,13 @@
 
   kindle:点燃，激起，照亮
 
+### 2016/10/14
 
+1. First hand experience is often necessary for personal growth.
+
+  对于个人成长来说，亲身经历是很有必要的。
+
+  
 
 
 
