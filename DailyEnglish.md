@@ -1,127 +1,127 @@
-# Ã¿ÈÕÒ»¾ä
+# æ¯æ—¥ä¸€å¥
 
 ## Failure is the path of least persistence.
 
 ### 2016/9/22
 1. Things won are done;joy's soul lies in the doing.
 
-   µÃµ½¼ÈÊÇÍê½á£¬¿ìÀÖµÄ¾«ËèÔÚÓÚ¹ı³Ì¡£
+   å¾—åˆ°æ—¢æ˜¯å®Œç»“ï¼Œå¿«ä¹çš„ç²¾é«“åœ¨äºè¿‡ç¨‹ã€‚
 
    words:
 
-   quote ÒıÓÃ
+   quote å¼•ç”¨
 
 ### 2016/9/23
 
 1. Even a small star shines in the darkness.
 
-   ĞÇĞÇÔÙĞ¡Ò²»á·¢¹â¡£
+   æ˜Ÿæ˜Ÿå†å°ä¹Ÿä¼šå‘å…‰ã€‚
 
    words:
 
-   configuration ÅäÖÃ£¬½á¹¹£¬ÍâĞÎ
+   configuration é…ç½®ï¼Œç»“æ„ï¼Œå¤–å½¢
 
 ### 2016/9/26
 
 1. The land did not move,but moved.The sea was not still ,yet was still.
 
-   ´óµØÖ¹¶øÒàĞĞ£¬´óº£¶¯¶øÒà¾²¡£
+   å¤§åœ°æ­¢è€Œäº¦è¡Œï¼Œå¤§æµ·åŠ¨è€Œäº¦é™ã€‚
 
 ### 2016/9/28
 
 1. Love all,trust a few,do wrong to none.
 
-   °®ËùÓĞÈË£¬ĞÅÈÎÒ»Ğ©ÈË£¬²»ÉËº¦ÈÎºÎÈË¡£
+   çˆ±æ‰€æœ‰äººï¼Œä¿¡ä»»ä¸€äº›äººï¼Œä¸ä¼¤å®³ä»»ä½•äººã€‚
 
 ### 2016/9/29
 
 1. Prosperity discovers vice,adversity virtue.
 
-   µÃÒâÊ±Â¶è¦´Ã£¬Äæ¾³ÖĞ¼ûÆ·ÖÊ¡£
+   å¾—æ„æ—¶éœ²ç‘•ç–µï¼Œé€†å¢ƒä¸­è§å“è´¨ã€‚
 
  word:
 
- prosperity:·±ÈÙ£¬³É¹¦
+ prosperity:ç¹è£ï¼ŒæˆåŠŸ
 
- adversity: Äæ¾³£¬²»ĞÒ£¬ÔÖÄÑ£¬ÔÖ»ö
+ adversity: é€†å¢ƒï¼Œä¸å¹¸ï¼Œç¾éš¾ï¼Œç¾ç¥¸
 
- virtue:ÃÀµÂ£¬ÓÅµã£¬Õê²Ù£¬¹¦Ğ§
+ virtue:ç¾å¾·ï¼Œä¼˜ç‚¹ï¼Œè´æ“ï¼ŒåŠŸæ•ˆ
 
- repository:Öü²ØÊÒ£¬ÖªÊ¶¿â£¬ÖÇÄÒÍÅ
+ repository:è´®è—å®¤ï¼ŒçŸ¥è¯†åº“ï¼Œæ™ºå›Šå›¢
 
 ### 2016/9/30
 
 1. Elegance is the only beauty that never fades.
 
-  ÓÅÑÅÊÇÎ¨Ò»²»»áÍÊÉ«µÄÃÀ¡£
+  ä¼˜é›…æ˜¯å”¯ä¸€ä¸ä¼šè¤ªè‰²çš„ç¾ã€‚
 
-  word£º
+  wordï¼š
 
-  elegance: µäÑÅ£¬ÓÅÑÅ
+  elegance: å…¸é›…ï¼Œä¼˜é›…
 
-  fade: ÍÊÉ«£¬Öğ½¥ÏûÊ§
+  fade: è¤ªè‰²ï¼Œé€æ¸æ¶ˆå¤±
 
 ### 2016/10/8
 
 1. When ambition ends,happiness begins.
 
-  Ò°ĞÄÏûÍöÖ®ÈÕ£¬ÕıÊÇ¿ìÀÖÆÆ¼ëÖ®Ê±¡£
+  é‡å¿ƒæ¶ˆäº¡ä¹‹æ—¥ï¼Œæ­£æ˜¯å¿«ä¹ç ´èŒ§ä¹‹æ—¶ã€‚
 
-  word£º
+  wordï¼š
 
-  ambition£ºÒ°ĞÄ£¬ĞÛĞÄ£¬±§¸º£¬Ö¾Ïò
+  ambitionï¼šé‡å¿ƒï¼Œé›„å¿ƒï¼ŒæŠ±è´Ÿï¼Œå¿—å‘
 
-  navigator: º½º£¼Ò£¬Áìº½Ô±
+  navigator: èˆªæµ·å®¶ï¼Œé¢†èˆªå‘˜
 
 ### 2016/10/9
 
 1. No matter how resourceful you are,you can't fight fate.
 
-  ÈË×İÓĞÍò°ãÄÜÄÍ£¬ÖÕÒ²µĞ²»¹ıÌìÃü¡£
+  äººçºµæœ‰ä¸‡èˆ¬èƒ½è€ï¼Œç»ˆä¹Ÿæ•Œä¸è¿‡å¤©å‘½ã€‚
 
-  word£º
+  wordï¼š
 
-  fate:ÃüÔË£¬×¢¶¨
+  fate:å‘½è¿ï¼Œæ³¨å®š
 
 ### 2016/10/11
 
 1. A friend is one who knows you and loves you just the same.
 
-  ÅóÓÑÊÇ¶®Äã²¢°®ÄãµÄÈË¡£
+  æœ‹å‹æ˜¯æ‡‚ä½ å¹¶çˆ±ä½ çš„äººã€‚
 
-  word£º
+  wordï¼š
 
 ### 2016/10/12
 
 1. Passion is momentary,love is enduring.
 
-  ¼¤Çé¶ÌÔİ£¬Õæ°®³¤¾Ã¡£
+  æ¿€æƒ…çŸ­æš‚ï¼ŒçœŸçˆ±é•¿ä¹…ã€‚
 
-  word£º
+  wordï¼š
 
-  iterator:µü´úÆ÷£¬µü´ú³ÌĞò
+  iterator:è¿­ä»£å™¨ï¼Œè¿­ä»£ç¨‹åº
 
-  passion:¼¤Çé£¬ÈÈÇé£¬¿á°®
+  passion:æ¿€æƒ…ï¼Œçƒ­æƒ…ï¼Œé…·çˆ±
 
-  momentary:Ë²¼äµÄ£¬¶ÌÔİµÄ£¬ËæÊ±»á·¢ÉúµÄ
+  momentary:ç¬é—´çš„ï¼ŒçŸ­æš‚çš„ï¼Œéšæ—¶ä¼šå‘ç”Ÿçš„
 
-  enduring:³Ö¾ÃµÄ£¬ÄÜÈÌÊÜµÄ£»ÈÌÄÍ
+  enduring:æŒä¹…çš„ï¼Œèƒ½å¿å—çš„ï¼›å¿è€
 
 ### 2016/10/13
 
 1. If the world seems cold to you, kindle fires to warm it.
 
-  ÊÀ½çÒÔº®Ïà´ı£¬ÇëÒÔÎÂÅ¯Ïà±¨¡£
+  ä¸–ç•Œä»¥å¯’ç›¸å¾…ï¼Œè¯·ä»¥æ¸©æš–ç›¸æŠ¥ã€‚
 
-  word£º
+  wordï¼š
 
-  kindle:µãÈ¼£¬¼¤Æğ£¬ÕÕÁÁ
+  kindle:ç‚¹ç‡ƒï¼Œæ¿€èµ·ï¼Œç…§äº®
 
 ### 2016/10/14
 
 1. First hand experience is often necessary for personal growth.
 
-  ¶ÔÓÚ¸öÈË³É³¤À´Ëµ£¬Ç×Éí¾­ÀúÊÇºÜÓĞ±ØÒªµÄ¡£
+  å¯¹äºä¸ªäººæˆé•¿æ¥è¯´ï¼Œäº²èº«ç»å†æ˜¯å¾ˆæœ‰å¿…è¦çš„ã€‚
 
 
 
