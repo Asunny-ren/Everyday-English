@@ -123,6 +123,13 @@
 
   对于个人成长来说，亲身经历是很有必要的。
 
+### 2016/10/17
+
+1. You only live once,but if you do it right,once is enough.
+
+  人生只有一次，但如果活对了，一次也就够了。
+
+  
 
 
 
