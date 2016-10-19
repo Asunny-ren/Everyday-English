@@ -129,8 +129,21 @@
 
   人生只有一次，但如果活对了，一次也就够了。
 
-  
+### 2016/10/18
 
+1. Live as if you were to die tomorrow.
+
+  将每一天都视作人生的最后一天来活。
+
+### 2016/10/19
+
+1. I find that the harder i work,the more luck i seem to have.
+
+  越努力，越幸运。
+
+  word：
+
+  expiration:呼气，终结，届期
 
 
 
