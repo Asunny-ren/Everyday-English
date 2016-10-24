@@ -145,6 +145,70 @@
 
   expiration:呼气，终结，届期
 
+### 2016/10/20
+
+1. I am a slow walker,but I never walk backwards.
+
+  我走的慢，但我从不后退。
+
+  word：
+
+### 2016/10/21
+
+1. Life is too short for long-tern grudges.
+
+  人生苦短，无暇怨恨。
+
+  word:
+
+  grudge: 怀恨，怨恨，妒忌
+
+### 2016/10/24
+
+1.  True love stories never have endings.
+
+  真正的爱情故事永远没有结局。
+
+  words:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
