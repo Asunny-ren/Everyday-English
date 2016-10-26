@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/DailyEnglish.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="172" column="2" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
+              <first_editor relative-caret-position="369">
+                <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -104,6 +103,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -190,11 +190,13 @@
       <workItem from="1476929062048" duration="968000" />
       <workItem from="1477015770899" duration="128000" />
       <workItem from="1477273855931" duration="113000" />
+      <workItem from="1477360557412" duration="500000" />
+      <workItem from="1477445413467" duration="804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10475000" />
+    <option name="totallyTimeSpent" value="11779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -290,6 +292,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DailyEnglish.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyEnglish.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DailyEnglish.md" />
     <entry file="file://$PROJECT_DIR$/DailyEnglish.md" />
     <entry file="file://$PROJECT_DIR$/DailyEnglish.md" />
@@ -306,8 +330,8 @@
     <entry file="file://$PROJECT_DIR$/DailyEnglish.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="172" column="2" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
+          <first_editor relative-caret-position="369">
+            <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

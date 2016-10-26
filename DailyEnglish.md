@@ -171,6 +171,33 @@
 
   words:
 
+###　2016/10/25
+
+1. The art of being wise is the art of knowing what to overlook.
+
+  智慧之道在于懂得该失去什么。
+
+  word：
+
+  wise: 明智的，聪明的，博学的
+
+  使知道，教导
+
+  overlook：忽略；俯瞰；远眺
+
+### 2016/10/26
+
+1. The best preparation for tomorrow is doing your best today.
+
+  过好今天，是对明天最好的准备。
+
+  word：
+
+  preparation：预备，准备
+
+
+
+
 
 
 
