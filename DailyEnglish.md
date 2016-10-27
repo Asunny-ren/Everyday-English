@@ -195,6 +195,12 @@
 
   preparation：预备，准备
 
+### 2016/10/27
+
+1. No matter how far you may fly ,never forget where you come from.
+
+  无论飞多高，也不要忘记起飞的地方。
+
 
 
 
