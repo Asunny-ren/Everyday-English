@@ -201,6 +201,12 @@
 
   无论飞多高，也不要忘记起飞的地方。
 
+### 2016/10/28
+
+1. Life is not a problem to be solved,but a reality to be experienced.
+
+  人生不是待解决的难题，而是等着我们去体验的现实。
+
 
 
 
