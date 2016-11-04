@@ -213,10 +213,37 @@
 
   一息若存，希望不灭。
 
+### 2016/11/1
 
+1. Difficult circumstances serve as a textbook of life for people.
 
+  困难坎坷是人们的生活教科书。
 
+### 2016/11/2
 
+1. If your ship doesn't come in,swim out to it!
+
+  如果你的船不驶进来，那你就朝它游过去吧。
+
+### 2016/11/3
+
+1. Love is the poetry of the senses.
+
+  爱是感官之诗。
+
+  word:
+
+  prime:主要的，最好的，基本的
+
+  poetry:诗歌，诗意
+
+  sense:感觉，功能，观念，道理，理智
+
+### 2016/11/4
+
+1. Problems are not stop signs,they are guidelines.
+
+  问题不是休止符，而是引向标。
 
 
 
