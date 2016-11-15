@@ -245,44 +245,14 @@
 
   问题不是休止符，而是引向标。
 
+### 2016/11/14
 
+1. There are far,far better things ahead than any we leave behind.
 
+  前方，有更美好的未来。
 
+### 2016/11/15
 
+1. Success is finding satisfaction in giving a little more than you take.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  成功是付出比得到的多，仍心满意足。
