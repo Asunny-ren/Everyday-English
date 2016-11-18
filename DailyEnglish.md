@@ -256,3 +256,27 @@
 1. Success is finding satisfaction in giving a little more than you take.
 
   成功是付出比得到的多，仍心满意足。
+
+### 2016/11/16
+
+1. Success is falling nine times and getting up ten.
+
+  成功是跌倒九次然后爬起十次。
+
+### 2016/11/17
+
+1. Don't cry because it is over.Smile because it happened.
+
+  不要因为结束而哭泣，微笑吧，因为你曾拥有。
+
+### 2016/11/18
+
+1. Get a livelihood,and then practise virtue.
+
+  先谋生而后修身。
+
+  words：
+
+    livelihood:生计，生活，营生
+
+    repository:仓库，贮藏室，知识库
