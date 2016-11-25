@@ -280,3 +280,15 @@
     livelihood:生计，生活，营生
 
     repository:仓库，贮藏室，知识库
+
+### 2016/11/24
+
+1. All the bright precious things fade so fast.
+
+  所有的光鲜靓丽都敌不过时间。
+
+### 2016/11/25
+
+1. It is not easy to meet each other in such a big world.
+
+  世界这么大，能遇见，不容易。
