@@ -293,9 +293,9 @@
 
   世界这么大，能遇见，不容易。
 
-前段时间太忙了，荒废了好多，continue 搞起
-
 # My dear front-end development,I'm coming.
+
+前段时间太忙了，荒废了好多，continue 搞起
 
 ### 2017/1/13
 
