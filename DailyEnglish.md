@@ -292,3 +292,13 @@
 1. It is not easy to meet each other in such a big world.
 
   世界这么大，能遇见，不容易。
+
+前段时间太忙了，荒废了好多，continue 搞起
+
+# My dear front-end development,I'm coming.
+
+### 2017/1/13
+
+1. Those who turn back never reach the summit.
+
+    回头的人永远也到不了顶峰。
