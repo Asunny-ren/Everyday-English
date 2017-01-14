@@ -313,3 +313,7 @@
 1. Don'y try so hard,the best things come when you least expect them to.
 
     不要着急，最好的总会在最不经意的时候出现。
+
+    words:
+
+    inspect: 检查，视察，检阅
