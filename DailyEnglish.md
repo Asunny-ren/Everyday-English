@@ -302,3 +302,14 @@
 1. Those who turn back never reach the summit.
 
     回头的人永远也到不了顶峰。
+
+    words:
+
+    property: n 性能，性质，财产，所有权
+    properties n 性能，道具，内容
+
+### 2017/1/14
+
+1. Don'y try so hard,the best things come when you least expect them to.
+
+    不要着急，最好的总会在最不经意的时候出现。
