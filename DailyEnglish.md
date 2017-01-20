@@ -317,3 +317,9 @@
     words:
 
     inspect: 检查，视察，检阅
+
+### 2017/1/20
+
+1. I am a slow walker, but I never walk backwards.
+
+    我走的很慢，但是我从来不会后退。
