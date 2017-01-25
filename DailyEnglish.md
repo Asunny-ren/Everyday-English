@@ -323,3 +323,9 @@
 1. I am a slow walker, but I never walk backwards.
 
     我走的很慢，但是我从来不会后退。
+
+# 2017/1/25
+
+1. In every triumph,there is a lot of try.
+
+    每个胜利背后都有许多尝试。
