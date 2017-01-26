@@ -329,3 +329,9 @@
 1. In every triumph,there is a lot of try.
 
     每个胜利背后都有许多尝试。
+
+### 2017/1/26
+
+1. Wasting time is robbing oneself.
+
+    浪费时间就是掠夺自己。
