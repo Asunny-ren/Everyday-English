@@ -335,3 +335,13 @@
 1. Wasting time is robbing oneself.
 
     浪费时间就是掠夺自己。
+
+Happy New Year!
+
+In the new year,I hope I can grow more,and cherish the people I love and love me.
+
+### 2017/2/6
+
+1. There are no shortcuts to any place worth going.
+
+  任何值得去的地方，都没有捷径。
