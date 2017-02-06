@@ -336,9 +336,9 @@
 
     浪费时间就是掠夺自己。
 
-Happy New Year!
+## Happy New Year!
 
-In the new year,I hope I can grow more,and cherish the people I love and love me.
+### In the new year,I hope I can grow more,and cherish the people I love and love me.
 
 ### 2017/2/6
 
