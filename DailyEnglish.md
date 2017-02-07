@@ -344,4 +344,14 @@
 
 1. There are no shortcuts to any place worth going.
 
-  任何值得去的地方，都没有捷径。
+    任何值得去的地方，都没有捷径。
+
+### 2017/2/7
+
+1. It does not do to dwell on dreams,and forget to live.
+
+    人不能活在梦里，不要依赖梦想而忘记生活。
+
+    words：
+
+    dwell:居住，存在于，细想某事
