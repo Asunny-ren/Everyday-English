@@ -357,3 +357,13 @@
     dwell:居住，存在于，细想某事
 
     shortcut:捷径，被切短的东西
+
+### 2017/2/9
+
+1. Happy life lies in a peaceful mind.
+
+    幸福生活存在于心绪宁静之中。
+
+    words：
+
+    column:纵队，列；专栏；圆柱，柱形物
