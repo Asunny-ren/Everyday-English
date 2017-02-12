@@ -367,3 +367,9 @@
     words：
 
     column:纵队，列；专栏；圆柱，柱形物
+
+### 2017/2/12
+
+1. There's no place like home.
+
+    任何地方都不能与家相提并论。
