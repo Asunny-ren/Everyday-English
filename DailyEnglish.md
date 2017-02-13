@@ -373,3 +373,19 @@
 1. There's no place like home.
 
     任何地方都不能与家相提并论。
+
+### 2017/2/13
+
+1. Don't trouble trouble until trouble troubles you.
+
+    不要自寻烦恼。
+
+    words:
+
+    snippet: 片段，不知天高地厚的年轻人
+
+    hack: 乱劈，乱砍，开垦，出租马车
+
+    customize: 定制，定做，按规格改制
+
+    theme: 主题，主旋律，题目
