@@ -397,3 +397,13 @@
     split: 分离，使分离，劈开
 
     palette: 调色板，颜料
+
+### 2017/2/16
+
+1. Other men live to eat,while I eat to live.
+
+    别人为食而生存，我为生存而食。
+
+    words:
+
+    thread: 线程，线；通过，穿过
