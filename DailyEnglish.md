@@ -413,3 +413,17 @@
     clipboard: 剪贴板；附有纸夹的笔记板
 
     repository: 贮藏室，仓库，知识库
+
+### 2017/2/17
+
+1. The very essence of romance is uncertainty.
+
+    浪漫的精髓就在于它充满种种可能。
+
+    words:
+
+    essence: 本质，实质，精华，香精
+
+    romance: 传奇，浪漫史；风流韵事；虚构，渲染
+
+    uncertainty: 不确定，不可靠; n;
