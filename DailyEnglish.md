@@ -427,3 +427,11 @@
     romance: 传奇，浪漫史；风流韵事；虚构，渲染
 
     uncertainty: 不确定，不可靠; n;
+
+    manuscript: 手稿，原稿；
+
+### 2017/2/20
+
+1. Behind every beautiful thing, there's some kind of pain.
+
+    美丽背后，必有某种努力。
