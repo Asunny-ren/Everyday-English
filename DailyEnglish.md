@@ -435,3 +435,13 @@
 1. Behind every beautiful thing, there's some kind of pain.
 
     美丽背后，必有某种努力。
+
+### 2017/2/22
+
+1. There is only one happiness in life,to love and be loved.
+
+    生命中只有一种幸福，爱与被爱。
+
+    words:
+
+    planet: 行星
