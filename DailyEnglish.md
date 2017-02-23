@@ -445,3 +445,15 @@
     words:
 
     planet: 行星
+
+### 2017/2/23
+
+1. In order to be irreplaceable,one must always be different.
+
+    想要无可取代，就必须与众不同。
+
+    words:
+
+    digest: 消化，吸收；文摘；领悟；整理
+
+    irreplaceable: 不能调换的，不能替代的； 
