@@ -456,4 +456,10 @@
 
     digest: 消化，吸收；文摘；领悟；整理
 
-    irreplaceable: 不能调换的，不能替代的； 
+    irreplaceable: 不能调换的，不能替代的；
+
+### 2017/2/24
+
+1. If you fail,don't forget to learn your lesson.
+
+    如果你失败了，千万别忘记汲取教训。
