@@ -463,3 +463,13 @@
 1. If you fail,don't forget to learn your lesson.
 
     如果你失败了，千万别忘记汲取教训。
+
+### 2017/2/27
+
+1. All the bright precious things fade so fast.
+
+    所有的光鲜亮丽都敌不过时间。
+
+    words:
+
+    precious: 宝贵的；珍贵的；矫揉造作的
