@@ -482,7 +482,8 @@
 
 行走在这人世间，总是苦乐参半，我们总是游走在人生的十字路口，曾一往无前，也曾犹豫踌躇，我们在这人世间不断追寻，寻找属于自己的乐土与快乐，然而，不遂人意的时刻却总是多过心中满是欣喜。
 
-<center>![图片] (https://oimagea5.ydstatic.com/image?id=5252749447609952296&product=dict&_w=426&_h=306&originWidth=426&originHeight=306)</center>
+<center>
+![图片](https://oimagea5.ydstatic.com/image?id=5252749447609952296&product=dict&_w=426&_h=306&originWidth=426&originHeight=306)</center>
 <div align=center>
 
 </div>
