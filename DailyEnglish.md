@@ -478,10 +478,112 @@
 
 来自：<http://xue.youdao.com/sw/m/1308375>
 
-#### 我要化作一道光，由内而外，暖暖的......
+## 我要化作一道光，由内而外，暖暖的......
 
 行走在这人世间，总是苦乐参半，我们总是游走在人生的十字路口，曾一往无前，也曾犹豫踌躇，我们在这人世间不断追寻，寻找属于自己的乐土与快乐，然而，不遂人意的时刻却总是多过心中满是欣喜。
 
 (https://my.oschina.net/pittzhang/blog/376749)
 
 于是，我们在这人世修行，慢慢地，慢慢地，参悟真谛，找到自己。也或许曾迷失于雨季，也或许曾潇洒于阳光下，亦或者充满了希望，也或者失望萦绕。
+
+但，我们依然要将自己变成一道光，由内而外，暖暖的......
+
+(https://oimagea3.ydstatic.com/image?id=6079863255900367670&product=dict&_w=429&_h=278&originWidth=429&originHeight=278)
+
+Have you ever been around someone who immediately put you at ease? Perhaps you may be one of those people who others feel safe around.
+
+有没有遇到过那么个人，只要他/她在你身边，你立即就觉得安心？或许你就是让别人觉得安心的那么一个人。
+
+What is the common thread in people who emanate warmth? Some may think it is related to personality or physical appearance. But this does little to explain why bright beacons of light can be found anywhere. Essence has nothing to do with our exterior.
+
+那些气场中自带温暖的人有哪些共性呢？一些人也许认为这与性格或外貌有关。但这基本解释不了为什么明亮的灯塔之光四处可见。本质与我们的外在无关。
+
+(https://oimagea4.ydstatic.com/image?id=2493597044806767926&product=dict&_w=431&_h=312&originWidth=431&originHeight=312)
+
+I like to believe the common thread is a universal trait we are all able to tap into. When we see the truth of who we are and whole heartedly love every part of that truth, weautomatically shine. When we embrace our essence and live in congruence with who we are, we radiate peace.
+
+我愿意相信这个共性是我们都能够触及的、普遍存在的品质。当我们欣赏自己的本质并全心全意热爱着这一切的时候，我们自然而然就会出类拔萃。当我们欣然接受自己的本质并遵循本心来生活的时候，我们会自带平和的光环。
+
+(https://oimagea5.ydstatic.com/image?id=3055296374431548815&product=dict&_w=553&_h=418&originWidth=553&originHeight=418)
+
+Every day we can choose to wake up and see the gift of getting to be who we are. When we decide to live from this way of "being," it becomes easy to see this same light and gift in everyone — even those who may not yet see it in themselves.
+
+每一天，我们都可以选择一醒来就欣赏做自己这一项天赋。当我们决定以“本性”来生活的时候，在每个人身上，甚至是那些可能还没有开始欣赏自身本性的人身上，我们变得很容易就能看到同样的光芒和天赋了。
+
+(https://oimagec3.ydstatic.com/image?id=-2273741411258741010&product=dict&_w=466&_h=310&originWidth=466&originHeight=310)
+
+The benefits of self-love are many. What I know to be true without a doubt in my heart, is that we are all capable of giving this gift to ourselves.
+
+自爱的益处有很多。我所知道的真相就是，我们都能赋予自己这项天赋，这一点我深信不疑。
+
+These words help me remember why embracing my essence is always the best thing to do. Perhaps this may resonate with where you are.
+
+这些话让我想起欣然接受自己的本质始终是上策的原因。或许这也会与你产生共鸣。
+
+(https://oimagec8.ydstatic.com/image?id=5139470360502951712&product=dict&_w=461&_h=328&originWidth=461&originHeight=328)
+
+When you love who you are,
+
+当你爱自己的时候，
+
+you become a conduit of light.
+
+你会成为一道光。
+
+Just drop into your heart space,
+
+只需触及心房，
+
+and live life from this view.
+
+并遵循本心来生活。
+
+For all of this doing
+
+做这一切
+
+is not who you are.
+
+无关你是谁。
+
+Listen to your heart’s soft whisper,
+
+聆听内心轻柔的呢喃，
+
+this voice will show you the way.
+
+她会告诉你方法。
+
+Live life from your essence
+
+遵循本性来生活
+
+is what she will say.
+
+她会这样告诉你。
+
+See the light in yourself,
+
+欣赏自身的光芒，
+
+and your world will be bright.
+
+你的世界都会变得明亮。
+
+There is no need to worry,
+
+没必要担心，
+
+you are exactly as you should be;
+
+你正是自己本来的模样；
+
+remember to love who you are,
+
+记得爱自己，
+
+and love what you will see.
+
+爱自己欣赏的一切。
+
+(https://oimagec3.ydstatic.com/image?id=4067004703956689085&product=dict&_w=520&_h=348&originWidth=520&originHeight=348)
