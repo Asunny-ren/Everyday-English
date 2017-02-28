@@ -488,7 +488,7 @@
 
 但，我们依然要将自己变成一道光，由内而外，暖暖的......
 
-(https://oimagea3.ydstatic.com/image?id=6079863255900367670&product=dict&_w=429&_h=278&originWidth=429&originHeight=278)
+[https://oimagea3.ydstatic.com/image?id=6079863255900367670&product=dict&_w=429&_h=278&originWidth=429&originHeight=278]
 
 Have you ever been around someone who immediately put you at ease? Perhaps you may be one of those people who others feel safe around.
 
@@ -520,7 +520,7 @@ These words help me remember why embracing my essence is always the best thing t
 
 这些话让我想起欣然接受自己的本质始终是上策的原因。或许这也会与你产生共鸣。
 
-(https://oimagec8.ydstatic.com/image?id=5139470360502951712&product=dict&_w=461&_h=328&originWidth=461&originHeight=328)
+[https://oimagec8.ydstatic.com/image?id=5139470360502951712&product=dict&_w=461&_h=328&originWidth=461&originHeight=328]
 
 When you love who you are,
 
@@ -586,4 +586,4 @@ and love what you will see.
 
 爱自己欣赏的一切。
 
-(https://oimagec3.ydstatic.com/image?id=4067004703956689085&product=dict&_w=520&_h=348&originWidth=520&originHeight=348)
+[https://oimagec3.ydstatic.com/image?id=4067004703956689085&product=dict&_w=520&_h=348&originWidth=520&originHeight=348]
