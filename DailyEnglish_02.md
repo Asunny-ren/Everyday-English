@@ -3,9 +3,14 @@
 ## Cease to struggle and you cease to live.
 
 ## 生命不止，奋斗不息。
+
 ## Sow nothing, reap nothing.
 
+## 春不播，秋不收。
+
 ## Keep on going never give up.
+
+## 勇往直前，永不放弃。
 
 ### 2017/3/1
 
