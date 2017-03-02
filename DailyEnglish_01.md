@@ -601,13 +601,3 @@ These words help me remember why embracing my essence is always the best thing t
 <center>
 ![图片](https://oimagec3.ydstatic.com/image?id=4067004703956689085&product=dict&_w=520&_h=348&originWidth=520&originHeight=348)
 </center>
-
-### 2017/3/1
-
-1. Age is a very high price to pay for maturity.
-
-    年纪是成熟的代价。
-
-    words:
-
-    maturity: [mə'tʃʊrəti] 成熟，到期，完备
