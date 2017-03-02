@@ -1,5 +1,8 @@
 # 每日一句
 
+## Cease to struggle and you cease to live.
+
+## 生命不止，奋斗不息。
 ## Sow nothing, reap nothing.
 
 ## Keep on going never give up.
