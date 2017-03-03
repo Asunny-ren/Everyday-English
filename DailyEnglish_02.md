@@ -39,3 +39,9 @@
     cease: 停止，终了；
 
     struggle: 奋斗；努力；挣扎；
+
+### 2017/3/3
+
+1. Each time you love,love as deeply as if it were forever.
+
+    如相爱，请深爱，就像能到天荒地老。
