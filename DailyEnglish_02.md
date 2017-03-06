@@ -45,3 +45,9 @@
 1. Each time you love,love as deeply as if it were forever.
 
     如相爱，请深爱，就像能到天荒地老。
+
+### 2017/3/6
+
+1. A well-spent day brings happy sleep.
+
+    丰盈白日，安眠夜间。
