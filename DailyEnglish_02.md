@@ -59,3 +59,15 @@
     一件美好的事物永远是一种欢乐。
 
     words:
+
+    digest:消化，吸收，融会贯通；文摘，摘要
+
+### 2017/3/13
+
+1. A warm smile is the universal language of kindness.
+
+    温暖的笑容是善意的通用语。
+
+    words:
+
+    universal: 普遍的；通用的；全体的；宇宙的
