@@ -51,3 +51,11 @@
 1. A well-spent day brings happy sleep.
 
     丰盈白日，安眠夜间。
+
+### 2017/3/7
+
+1. A thing of beauty is a joy for ever.
+
+    一件美好的事物永远是一种欢乐。
+
+    words:
