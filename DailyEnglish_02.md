@@ -71,3 +71,5 @@
     words:
 
     universal: 普遍的；通用的；全体的；宇宙的
+
+    dependencies: 依赖性，相关性；管理
