@@ -79,3 +79,13 @@
     emit: 发出，放射，发行，发表
 
     echo: 反射；重复;回音，效仿
+
+### 2017/3/14
+
+1. Thinking will not overcome fear but action will.
+
+    空想终日惶恐，行动方可无惧。
+
+    words:
+
+    overcome:克服，胜过
