@@ -89,3 +89,15 @@
     words:
 
     overcome:克服，胜过
+
+### 2017/3/16
+
+1.  Adventrue may hurt you,but monotony will kill you.
+
+    也许冒险会让你受伤，但一成不变会使你灭亡。
+
+    words:
+
+    adventrue: 冒险
+
+    monotony: 单调；千篇一律
