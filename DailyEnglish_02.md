@@ -101,3 +101,17 @@
     adventrue: 冒险
 
     monotony: 单调；千篇一律
+
+### 2017/3/21
+
+1. Sometimes ever,sometimes never.
+
+    相聚有时，后会无期。
+
+### 2017/3/22
+
+1. Satisfaction doesn't come from the outside,but from the inside.
+
+    满足感并非来自外界，而是内心。
+
+    satisfy: 令人满意的，令人满足的。
