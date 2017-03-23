@@ -115,3 +115,14 @@
     满足感并非来自外界，而是内心。
 
     satisfy: 令人满意的，令人满足的。
+
+### 2017/3/23
+
+1.  A bird is known by its note,and a man by his talk.
+
+    闻其歌知其鸟，听其言知其人
+
+    present: 提出，介绍，呈现，赠送
+
+    presentation: 展示，描述，称述，介绍，赠送
+### Today is a gong day,because of the rain.
