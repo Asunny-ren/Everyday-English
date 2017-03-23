@@ -116,6 +116,8 @@
 
     satisfy: 令人满意的，令人满足的。
 
+    token: 表征，代币，记号
+
 ### 2017/3/23
 
 1.  A bird is known by its note,and a man by his talk.
