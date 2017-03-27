@@ -127,4 +127,11 @@
     present: 提出，介绍，呈现，赠送
 
     presentation: 展示，描述，称述，介绍，赠送
-### Today is a gong day,because of the rain.
+
+### Today is a gond day,because of the rain.
+
+### 2017/3/27
+
+1. A book that remains shut is but a block.
+
+    有书闭卷不阅读，无异是一块木头。
