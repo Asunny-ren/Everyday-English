@@ -135,3 +135,11 @@
 1. A book that remains shut is but a block.
 
     有书闭卷不阅读，无异是一块木头。
+
+### 2017/3/29
+
+1. It's during our darkest moments that we must focus to see the light.
+    
+    最黑暗的时刻，最该努力看到光。
+
+    notation：符号，乐谱，注释，记号法
