@@ -2,15 +2,15 @@
 
 ## Cease to struggle and you cease to live.
 
-## 生命不止，奋斗不息。
+### 生命不止，奋斗不息。
 
 ## Sow nothing, reap nothing.
 
-## 春不播，秋不收。
+### 春不播，秋不收。
 
 ## Keep on going never give up.
 
-## 勇往直前，永不放弃。
+### 勇往直前，永不放弃。
 
 ### 2017/3/1
 
@@ -139,7 +139,13 @@
 ### 2017/3/29
 
 1. It's during our darkest moments that we must focus to see the light.
-    
+
     最黑暗的时刻，最该努力看到光。
 
     notation：符号，乐谱，注释，记号法
+
+### 2017/4/8
+
+1. Life is the art of drawing without an eraser.
+
+    人生如画，落笔无悔。
