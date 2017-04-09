@@ -149,3 +149,9 @@
 1. Life is the art of drawing without an eraser.
 
     人生如画，落笔无悔。
+
+### 2017/4/9
+
+1. In the evening one may praise the day.
+
+    入夜方能赞美白昼。
