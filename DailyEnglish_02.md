@@ -155,3 +155,13 @@
 1. In the evening one may praise the day.
 
     入夜方能赞美白昼。
+
+### 2017/4/11
+
+1. Love is hard to get into,but harder to get out of.
+
+    相爱不易，相忘更难。
+
+    detect: 检测
+
+    leak: 溢出
