@@ -171,3 +171,5 @@
 1. Try to be a rainbow in someone's cloud.
 
     当乌云萦绕心头，我愿成为你的彩虹。
+
+    fetch: 拿来；取来；吸引
