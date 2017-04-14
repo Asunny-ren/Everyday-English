@@ -165,3 +165,9 @@
     detect: 检测
 
     leak: 溢出
+
+### 2017/4/14
+
+1. Try to be a rainbow in someone's cloud.
+
+    当乌云萦绕心头，我愿成为你的彩虹。
