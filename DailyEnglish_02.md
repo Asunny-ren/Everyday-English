@@ -173,3 +173,19 @@
     当乌云萦绕心头，我愿成为你的彩虹。
 
     fetch: 拿来；取来；吸引
+
+### 2017/4/15
+
+1. Attitude is a little thing that makes a big difference.
+
+    小态度，大不同。
+
+    attitude: 态度，姿势，看法，意见
+
+    buffer: 缓存区，缓存器
+
+### 2017/7/10
+
+1. Hope for the best, but prepare for the worst.
+
+    作最好的希望，作最坏的打算。
