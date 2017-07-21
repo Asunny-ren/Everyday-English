@@ -189,3 +189,9 @@
 1. Hope for the best, but prepare for the worst.
 
     作最好的希望，作最坏的打算。
+
+### 2017/7/21
+
+1. Knowledge is the antidote to fear.
+
+    知识可以解决恐惧
